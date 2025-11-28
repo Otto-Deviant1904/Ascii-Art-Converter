@@ -14,7 +14,7 @@ Convert any image into ASCII art with multiple styles:
 - Works on Linux, macOS, Windows
 - Save output to `.txt`
 
-## 🛠 Installation
+## Installation
 
 ```bash
 pip install pillow  
